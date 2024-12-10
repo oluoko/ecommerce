@@ -1,7 +1,39 @@
+/*     Sass Template */
 @import url("https://fonts.googleapis.com/css2?family=Kurale&family=Rubik:ital,wght@0,300..900;1,300..900&family=Yuji+Mai&display=swap");
-
-button,
-button:focus {
+/* Sass Template */
+/* global classes */
+button, button:focus {
   outline: none !important;
   box-shadow: none !important;
 }
+
+/* typography classes*/
+.font-kurale {
+  font-family: "Kurale", sans-serif;
+}
+
+.font-rubik {
+  font-family: "Rubik", cursive;
+}
+
+.font-yuji {
+  font-family: "Yuji Mai", sans-serif;
+}
+
+.font-size-12 {
+  font-size: 12px;
+}
+
+.font-size-14 {
+  font-size: 14px;
+}
+
+.font-size-16 {
+  font-size: 16px;
+}
+
+.font-size-20 {
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */
