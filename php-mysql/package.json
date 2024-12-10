@@ -1,0 +1,15 @@
+{
+  "name": "php-mysql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/style.css style.css --watch"
+  },
+  "author": "Brian Otieno",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sass": "^1.82.0"
+  }
+}
